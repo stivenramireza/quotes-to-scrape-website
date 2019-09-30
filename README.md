@@ -3,5 +3,5 @@
 Scrapy exercises to extract data from quotes.toscrape.com website.
 
 <p align="center">
-<img src="https://i.udemycdn.com/course/240x135/1594618_979b_7.jpg">
+<img src="https://miro.medium.com/max/3588/1*JVwl6lL_-rCTV6NXw8aw3Q.png">
 </p>
